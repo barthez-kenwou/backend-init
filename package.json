@@ -213,7 +213,7 @@
     "tsx": "^4.23.13",
     "typescript": "^5.2.2",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.0"
   },
   "prisma": {
     "seed": "ts-node -r tsconfig-paths/register --project prisma/tsconfig.json prisma/seed.ts"
