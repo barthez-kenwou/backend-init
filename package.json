@@ -138,7 +138,7 @@
     "minio": "^8.0.7",
     "module-alias": "^2.2.3",
     "morgan": "^1.10.1",
-    "multer": "^2.3.0",
+    "multer": "^2.5.0",
     "nodemailer": "^10.0.0",
     "otp-generator": "^4.0.1",
     "otplib": "^13.5.0",
