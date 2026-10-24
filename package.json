@@ -139,7 +139,7 @@
     "module-alias": "^2.2.3",
     "morgan": "^1.10.1",
     "multer": "^2.3.0",
-    "nodemailer": "^10.0.0",
+    "nodemailer": "^10.1.4",
     "otp-generator": "^4.0.1",
     "otplib": "^13.5.0",
     "prom-client": "^15.1.3",
